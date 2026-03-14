@@ -1,0 +1,1 @@
+This project creates fake funny headlines
